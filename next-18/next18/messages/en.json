@@ -1,0 +1,26 @@
+{
+    "Index": {
+      "title": "Hello world!",
+      "navigateAbout": "Navigate to About"
+    },
+    "LocaleSwitcher": {
+      "label": "Change language",
+      "locale": "{locale, select, tr {Turkish} en {English} other {Unknown}}"
+    },
+    "About": {
+      "desc": "About page"
+    },
+
+    "Contact":{
+      "desc" :"İletişim sayfası"
+    },
+    "LocaleChange": {
+      "desc" :"Go to Turkish page"
+    },
+    "Navigation":{
+      "about": "About",
+      "contact": "Contact",
+      "home":"Home"
+
+    }
+  }

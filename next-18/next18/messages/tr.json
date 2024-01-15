@@ -1,0 +1,24 @@
+{
+    "Index": {
+      "title": "merhaba dünya!",
+      "navigateAbout": "Hakkında sayfasına git"
+    },
+    "LocaleSwitcher": {
+      "label": "Dili değiştir",
+      "locale": "{locale, select, tr {Türkçe} en {İngilizce} other {Unknown}}"
+    },
+    "About": {
+      "desc": "Hakkında sayfasi"
+    },
+    "Contact":{
+      "desc" :"İletişim sayfası"
+    },
+    "LocaleChange": {
+      "desc" :"İngizlice sayfaya git"
+    },
+    "Navigation":{
+      "about": "Hakkında",
+      "contact": "İletişim",
+      "home":"Anasayfa"
+    }
+  }
